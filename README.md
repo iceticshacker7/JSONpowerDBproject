@@ -6,25 +6,25 @@ This project is created to store student records in a database for easy access a
 
 
 
-Benefits of using JSON-PowerDB:
-Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.
-Serverless support for faster development - A UI developer can develop complete dynamic application.
-DBMS with built in web / application server and embedded caching makes the performance lightning fast.
-Server side Native NoSQL - best query performance.
-In-built support to query on multiple JPDB databases.
-Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
-Schema free - easy to develop and maintain.
-Web-services API - Can be used with any programming language that has support for HTTP.
-Enriched by a pluggable API Framework - A developer can develop a pluggable API and plugin into any of our cloud JPDB instance.
-Standardisation of API development framework makes the development process easy, more readable, and less error prone.
-Multiple security layers.
-Nimble, Simple to use, In Memory, Real-time DBMS.
+Benefits of using JSON-PowerDB:<br>
+Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.<br>
+Serverless support for faster development - A UI developer can develop complete dynamic application.<br>
+DBMS with built in web / application server and embedded caching makes the performance lightning fast.<br>
+Server side Native NoSQL - best query performance.<br>
+In-built support to query on multiple JPDB databases.<br>
+Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.<br>
+Schema free - easy to develop and maintain.<br>
+Web-services API - Can be used with any programming language that has support for HTTP.<br>
+Enriched by a pluggable API Framework - A developer can develop a pluggable API and plugin into any of our cloud JPDB instance.<br>
+Standardisation of API development framework makes the development process easy, more readable, and less error prone.<br>
+Multiple security layers.<br>
+Nimble, Simple to use, In Memory, Real-time DBMS.<br>
 
-Use cases:
-All RDMS use cases.
-All key-value use cases.
-All document use cases.
-Time series/geospatial analytics.
-Real time application for data analytics.
-Live working HTML templates.
-Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps)
+Use cases:<br>
+All RDMS use cases.<br>
+All key-value use cases.<br>
+All document use cases.<br>
+Time series/geospatial analytics.<br>
+Real time application for data analytics.<br>
+Live working HTML templates.<br>
+Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps)<br>
